@@ -31,6 +31,9 @@ No exemplo abaixo foi instalada a biblioteca schedule pelo próprio terminal do 
 
 ## Criando o ambiente virtualenv
 
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/07_Criando_VirtualEnv.GIF)
+
+
 
 
 
