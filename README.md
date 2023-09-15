@@ -12,6 +12,8 @@ No exemplo abaixo foi instalada a biblioteca schedule pelo próprio terminal do 
 
 ![Biblioteca Schedule](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/02_Biblioteca_Schedule.GIF)
 
+## Importando as bibliotecas
+
 
 
 
