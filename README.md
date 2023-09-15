@@ -27,6 +27,9 @@ No exemplo abaixo foi instalada a biblioteca schedule pelo próprio terminal do 
 
 ## Determinando a condição de execução
 
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/06_Determina_Cond_Exec.GIF)
+
+
 
 
 
