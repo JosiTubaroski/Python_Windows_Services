@@ -18,3 +18,6 @@ No exemplo abaixo foi instalada a biblioteca schedule pelo próprio terminal do 
 
 ## Definindo funções
 
+
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/assets/66569714/cd0ae1ef-9734-41b0-9924-a1c6e386439e)
+
