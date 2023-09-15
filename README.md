@@ -23,3 +23,6 @@ No exemplo abaixo foi instalada a biblioteca schedule pelo próprio terminal do 
 
 ## Montando os schedulers
 
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/05_Schedulando.GIF)
+
+
