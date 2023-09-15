@@ -21,3 +21,5 @@ No exemplo abaixo foi instalada a biblioteca schedule pelo próprio terminal do 
 
 ![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/04_Definindo_Funcoes.GIF)
 
+## Montando os schedulers
+
