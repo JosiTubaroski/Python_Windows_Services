@@ -10,4 +10,8 @@ Estudo sobre como instalar um script python no windows services ou seja um agend
 
 No exemplo abaixo foi instalada a biblioteca schedule pelo próprio terminal do Visual Code
 
+![Biblioteca Schedule](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/02_Biblioteca_Schedule.GIF)
+
+
+
 
