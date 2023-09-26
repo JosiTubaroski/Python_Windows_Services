@@ -52,3 +52,6 @@ Para ativação do jobscheduler1 foi necessário executar o script abaixo no Pow
 ![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/11_Comando_Shell.GIF)
 
 ## Baixar o programa que se chama NSSM
+
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/12_Download_NSSM.GIF)
+
