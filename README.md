@@ -41,7 +41,7 @@ Para interromper uma execução, utilizar Ctrl + C.
 
 ## Ativando JobScheduler1
 
-
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/09_Ativar_JobScheduler.GIF)
 
 
 
