@@ -49,6 +49,6 @@ Para interromper uma execução, utilizar Ctrl + C.
 
 Para ativação do jobscheduler1 foi necessário executar o script abaixo no PowerShell
 
-
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/11_Comando_Shell.GIF)
 
 
