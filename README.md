@@ -29,15 +29,19 @@ No exemplo abaixo foi instalada a biblioteca schedule pelo próprio terminal do 
 
 ![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/06_Determina_Cond_Exec.GIF)
 
-## Criando o ambiente virtualenv
-
-![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/07_Criando_VirtualEnv.GIF)
-
 ## Execução automatica de atividades
 
 ![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/08_Executando_Jobs.GIF)
 
 Para interromper uma execução, utilizar Ctrl + C.
+
+## Criando o ambiente virtualenv
+
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/07_Criando_VirtualEnv.GIF)
+
+## Ativando JobScheduler1
+
+
 
 
 
