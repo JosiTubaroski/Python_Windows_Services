@@ -55,6 +55,10 @@ Para ativação do jobscheduler1 foi necessário executar o script abaixo no Pow
 
 ![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/12_Download_NSSM.GIF)
 
+Sobre o NSSM: O "NSSM.exe" refere-se ao "Non-Sucking Service Manager", que é uma ferramenta de código aberto para Windows usada para criar e gerenciar serviços do Windows. Um serviço no Windows é um programa ou processo que é executado em segundo plano, geralmente sem uma interface de usuário visível, e pode ser configurado para iniciar automaticamente quando o sistema é iniciado.
+
+O NSSM permite que você converta um aplicativo ou script em um serviço do Windows, o que pode ser útil em várias situações. Por exemplo, você pode usá-lo para executar uma tarefa em segundo plano, como um servidor web, um serviço de banco de dados, ou qualquer outro aplicativo que precise ser executado como um serviço.
+
 ## Em seguida executar o DOS como ADMINISTRADOR, e realizar a instalação do serviço
 
 ![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/13_Instalacao_Servi%C3%A7o.GIF)
