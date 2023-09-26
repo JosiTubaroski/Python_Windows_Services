@@ -59,6 +59,10 @@ Para ativação do jobscheduler1 foi necessário executar o script abaixo no Pow
 
 ![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/13_Instalacao_Servi%C3%A7o.GIF)
 
+## Acessar serviços e verificar o serviço Jobscheduler1
+
+![image](https://github.com/JosiTubaroski/Python_Windows_Services/blob/main/img/14_Servico_Job_Scheduler.GIF)
+
 
 
 
